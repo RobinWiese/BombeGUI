@@ -42,6 +42,7 @@ public class Bombe extends JFrame {
                     bKlick.setText("CLOSING IN:1");
                     Wait.wait(1000);
                     bKlick.setText("CLOSING IN:0");
+                    //schließt sich
                 }
             }
         });
@@ -60,3 +61,7 @@ public class Bombe extends JFrame {
     }
 
 }
+
+/*
+Gruppenarbeit: Constantin, Maximilian, Robin
+*/
